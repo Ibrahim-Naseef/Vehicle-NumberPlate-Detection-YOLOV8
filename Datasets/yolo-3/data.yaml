@@ -1,0 +1,12 @@
+names:
+- Number-Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolo-unszn
+  url: https://universe.roboflow.com/dronacharya-college-of-engineering/yolo-unszn/dataset/3
+  version: 3
+  workspace: dronacharya-college-of-engineering
+test: test/images
+train: train/images
+val: valid/images
